@@ -30,7 +30,7 @@ class Details
 
     void information()
     {
-        cout<<"\nEnter the customer ID: ";
+        cout<<"\nEnter the customer ID in between 0-9: ";
         cin>>cid;
         cout<<"\nEnter the Name: ";
         cin>>name;
